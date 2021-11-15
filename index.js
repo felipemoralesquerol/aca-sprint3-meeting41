@@ -23,7 +23,7 @@ app.get('/version', function (req, res) {
 })
 
 
-app.get('/students', async (req, res) => {
+app.get('/api/students', async (req, res) => {
     try {
         // Esperamos a que termine de devolver los estudiantes
         // antes de retornar una respuesta

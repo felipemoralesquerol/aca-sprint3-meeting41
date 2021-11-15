@@ -6,7 +6,9 @@ npm install express
 
 # Código fuente
 Vía git 
-# Perform a quick update on your instance:
+
+
+# Perform a quick update on your instance Amazon Linux 2:
 sudo yum update -y
  
 # Install git in your EC2 instance
