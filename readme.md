@@ -25,7 +25,7 @@ npm install pm2@latest -g
 # Ejecución básica de pm2
 pm2 start index.js --name api --watch
 
-# Ejemplo de archivo de ecosistema de pm2
+# Ejemplo de archivo de ecosistema de pm2 (defnir el nombre correctamente)
 ecosystem.config.js
 module.exports = {
   apps: [{
